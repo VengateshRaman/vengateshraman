@@ -34,7 +34,7 @@ Enterprise AI agent platform designed for secure, scalable, and production-ready
 - Implemented enterprise-ready deployment strategies on AWS  
 - Applied AI-augmented engineering workflows to improve development efficiency and delivery speed  
 
-**Tech Stack:** Python, FastAPI, Next.js, AWS, REST APIs  
+**Tech Stack:** Next.js, AWS, Python, FastAPI, REST APIs 
 
 ---
 
